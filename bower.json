@@ -1,0 +1,26 @@
+{
+  "name": "my project",
+  "description": "read more plugin",
+  "main": "index.html",
+  "keywords": [
+    "readmore",
+    "plugin"
+  ],
+  "authors": [
+    "shashank jain"
+  ],
+  "license": "MIT",
+  "homepage": "jcs.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "bootstrap": "~4.0.0"
+  }
+}
